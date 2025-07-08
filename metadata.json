@@ -1,0 +1,6 @@
+{
+  "name": "Galactic Annihilator",
+  "description": "A fast-paced, top-down space shooter game. Control your ship with A/D keys, aim with the mouse, and survive waves of enemies and powerful bosses. Built with React and Tailwind CSS.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
